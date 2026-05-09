@@ -1,4 +1,4 @@
-# Intro-to-VR-Develoopment
+# Intro-to-VR-Development
 My journey learning Virtual Reality through IEEE WIE Workshop
 # Introduction
 
